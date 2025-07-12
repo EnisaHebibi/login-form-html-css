@@ -16,7 +16,6 @@ This is a **static** front-end project with no functionality — created to demo
 
 📸 Preview
 
-<img width="3385" height="1268" alt="image" src="https://github.com/user-attachments/assets/b31d850a-ec5a-456b-a4b8-7ef792886b92" />
-
+![screenshot](https://github.com/user-attachments/assets/b9300a86-e51b-4991-b450-d7816ac3a985)
 
 
